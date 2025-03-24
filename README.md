@@ -55,6 +55,6 @@ Casos intermediários ou omissos da rubrica serão decididos pelo professor.
 
 ![](./img/q1-r4.png)
 
-Se você precisar gerar mais de uma imagem de `debug` para demonstrar como seu programa funciona, as exiba usando a função `cv2.imshow`.
+Se você precisar gerar mais de uma imagem de `debug` para demonstrar como seu programa funciona as exiba usando a função `cv2.imshow`.
 
 
